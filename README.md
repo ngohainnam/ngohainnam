@@ -23,3 +23,13 @@ I have uploaded contents from units that I have studied and some of my personal 
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
   <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ngohainnam&repo=Bachelor-of-Computer-Science&theme=merko" />
 </a>
+
+<!-- Upload other box for school units-->
+<a href="https://github.com/ngohainnam/COS10007-Developing-Technical-Software">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ngohainnam&repo=COS10007-Developing-Technical-Software&theme=gruvbox" />
+</a>    
+<a href="https://github.com/ngohainnam/COS10024-Web-Development">
+  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
+  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=ngohainnam&repo=COS10024-Web-Development&theme=dark" />
+</a>
