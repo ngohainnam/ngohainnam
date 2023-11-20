@@ -1,11 +1,19 @@
 ### WELCOME TO MY PAGE 👋👋👋
-My name is Hai Nam (Kent). I am a student in Computer Science, majoring in Artificial Intelligence in Swinburne University.
+My name is Hai Nam (Kent). I am a Computer Science student majoring in Artificial Intelligence in Swinburne University of Technology.
+I have uploaded contents from units that I have studied and some of my personal projects that I feel it would be really interesting.
 <br>
-## 📫 How to reach me: 
+## 📫 How to reach me:
 
-[![Linkedin](https://i.stack.imgur.com/gVE0j.png) LinkedIn](https://www.linkedin.com/in/hai-nam-ngo-b71978231/) [![GitHub](https://i.stack.imgur.com/tskMh.png) GitHub](https://github.com/ngohainnam) 
-
-![Nam's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ngohainnam&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+<div id="badges">
+  <a href="https://www.linkedin.com/in/hai-nam-ngo-b71978231/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="mailto:ngohainnam@gmail.com">
+    <img src="https://img.shields.io/badge/Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail Badge"/>
+  </a>
+</div>
+  
+[Nam's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ngohainnam&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/ngohainnam/Diploma-of-IT">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
