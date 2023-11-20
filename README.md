@@ -13,7 +13,7 @@ I have uploaded contents from units that I have studied and some of my personal 
   </a>
 </div>
   
-[Nam's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ngohainnam&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Nam's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ngohainnam&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/ngohainnam/Diploma-of-IT">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
