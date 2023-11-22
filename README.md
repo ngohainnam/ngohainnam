@@ -6,6 +6,7 @@ I have uploaded contents from units that I have studied and some of my personal 
 ### Diploma GPA: 4.0/4.0
 <br>
 ### Bachelor GPA: N/A
+<br>
 ## 📫 How to reach me:
 
 <div id="badges">
