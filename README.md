@@ -1,5 +1,4 @@
 ### WELCOME TO MY PAGE 👋👋👋
-<img src="https://giphy.com/gifs/animation-animated-gif-xTiTnxpQ3ghPiB2Hp6" width="200" />
 My name is Hai Nam (Kent). I am a Computer Science student majoring in Artificial Intelligence in Swinburne University of Technology.
 <br>
 I have uploaded contents from units that I have studied and some of my personal projects that I feel it would be really interesting.
