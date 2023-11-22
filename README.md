@@ -4,6 +4,7 @@ My name is Hai Nam (Kent). I am a Computer Science student majoring in Artificia
 I have uploaded contents from units that I have studied and some of my personal projects that I feel it would be really interesting.
 <br>
 Diploma GPA: 4.0/4.0
+<br>
 Bachelor GPA: N/A
 ## 📫 How to reach me:
 
