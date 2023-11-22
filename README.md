@@ -7,7 +7,7 @@ I have uploaded contents from units that I have studied and some of my personal 
 <br>
 ### Bachelor GPA: N/A
 <br>
-## 📫 How to reach me:
+### 📫 How to reach me:
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/hai-nam-ngo-b71978231/">
