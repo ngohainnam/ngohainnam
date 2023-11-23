@@ -16,7 +16,7 @@ I have uploaded contents from units that I have studied and some of my personal 
   </a>
 </div>
   
-![Kent's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ngohainnam&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
+![Hainnam's github stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ngohainnam&show_icons=true&theme=tokyonight&hide=contribs,prs,issues)
 
 <a href="https://github.com/ngohainnam/Diploma-of-IT">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngohainnam&repo=Diploma-of-IT&theme=radical" />
