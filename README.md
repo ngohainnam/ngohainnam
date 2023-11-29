@@ -26,3 +26,6 @@ I have uploaded most of contents from units that I have studied and some of my p
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngohainnam&repo=Bachelor-of-Computer-Science&theme=merko" />
 </a>
 
+<a href="https://github.com/ngohainnam/OOP-Program-Game-Alien-Blaster">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ngohainnam&repo=OOP-Program-Game-Alien-Blaster&theme=gruvbox" />
+</a>
