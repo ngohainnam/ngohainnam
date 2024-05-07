@@ -7,6 +7,7 @@ I have uploaded most of contents from units that I have studied and some of my p
 The diploma course contains 8 units in total: some core units in the first year and some elective units. However, I only published 5/8 units since they are related to programming.
 <br>
 ### Bachelor GPA : 3.5/4.0
+### Overall: 3.7/4.0
 ## 📫 How to reach me:
 
 <div id="badges">
