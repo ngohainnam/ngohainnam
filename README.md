@@ -3,8 +3,6 @@ My name is Hai Nam (Kent). I am a Computer Science student majoring in Artificia
 <br>
 I have uploaded most of contents from units that I have studied and some of my personal projects that I feel it would be really interesting.
 <br>
-The diploma course contains 8 units in total: some core units in the first year and some elective units. However, I only published 5/8 units since they are related to programming.
-<br>
 ### GPA: 3.6/4.0
 
 ## 📫 How to reach me:
