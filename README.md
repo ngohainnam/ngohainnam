@@ -7,7 +7,7 @@ I have uploaded most of contents from units that I have studied and some of my p
 ## 📫 How to reach me:
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/hai-nam-ngo-b71978231/">
+  <a href="https://www.linkedin.com/in/ngohainnam/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:ngohainnam@gmail.com">
