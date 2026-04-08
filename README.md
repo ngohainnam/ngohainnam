@@ -2,8 +2,20 @@
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
 </p>
+![version :10.07.2024](https://img.shields.io/badge/version-10.07.2024-informational) &nbsp;
+![profile count](https://komarev.com/ghpvc/?username=ngohainnam&color=red)&nbsp;
+[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/ngohainnam?label=follow&style=social)](https://github.com/ngohainnam)&nbsp;
+![build: passing](https://img.shields.io/badge/build-passing-success)
 <hr/>
-<h4 align="center">I am a Data Science student with a strong interest in Artificial Intelligence, Machine Learning, and Computer Vision. I enjoy building real-world projects, solving problems, and continuously improving my technical skills. I am an enthusiastic and a person who loves to take up new challenges and learn new skills. Passionate developer with a love for problem-solving and creating innovative solutions. Experienced in various programming languages and frameworks. Dedicated to continuous learning and growth in the ever-evolving world of technology. Open to collaboration and exploring new opportunities.</h4>
+### 👨🏻‍💻 &nbsp;About Me
+
+💡 &nbsp; I'm a Data Science student with a strong interest in Artificial Intelligence, Machine Learning, and Computer Vision. \
+💻 &nbsp;I enjoy building real-world projects, especially in AI systems, data analysis, and computer vision applications.\
+🎓 &nbsp;Currently pursuing a Master of Data Science at Deakin University, after completing a Bachelor of Computer Science (AI).\
+🌱 &nbsp;I'm continuously learning more about Deep Learning, RAG systems, and scalable AI deployment.\
+🚀 &nbsp;I have experience working with Python, TensorFlow, and building end-to-end ML systems with cloud deployment.\
+🤝 &nbsp;Open to collaboration, internships, and opportunities in AI, Data Science, and Software Engineering.\
+💬 &nbsp;Feel free to reach out for projects, ideas, or discussions in these areas!
 <br>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=ngohainnam&label=Ngohainnam's%20Profile%20Views%20&color=dc143c&style=plastic" alt="ngohainnam" /> </p>
 
@@ -144,11 +156,7 @@
 
 <br/>
 
-## 🙋‍♀️ Let's Connect
+### 📫 &nbsp; How to reach me:
 
-<p align="center">
-	<a href="mailto:ngohainnam@gmail.com"><img src="https://img.icons8.com/bubbles/50/000000/gmail.png" alt="Gmail"/></a>
-	<a href="https://linkedin.com/in/ngohainnam"><img src="https://img.icons8.com/bubbles/50/000000/linkedin.png" alt="LinkedIn"/></a>
-</p>
-
-<!--img align="right" alt="Coding" width="450" src="https://camo.githubusercontent.com/6607041227d81f650340ff070cc2843518acad359b57e5bb054a9fb7127aa041/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323634363432332f73637265656e73686f74732f353530373139362f636f6d70757465722e676966" data-canonical-src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif" style="max-width:100%;"/-->
+<a href="https://www.linkedin.com/in/ngohainnam/"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=flat&logo=linkedin&logoColor=white"/></a> &nbsp;
+<a href="mailto:ngohainnam@gmail.com"><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a> &nbsp;
