@@ -1,12 +1,17 @@
 <h1 align="center">Hi , I'm Hai Nam (Kent) Ngo <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Full-Stack+Developer;DS%20|%20AI%20|%20ML%20Enthusiast;Graphic%20Designer;Always%20learning%20new%20things&center=true&width=500&height=50&font=georgia"></a>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=ngohainnam&label=Ngohainnam's%20Profile%20Views%20&color=dc143c&style=plastic" alt="ngohainnam" /> </p>
 </p>
+
 ![version :10.07.2024](https://img.shields.io/badge/version-10.07.2024-informational) &nbsp;
 ![profile count](https://komarev.com/ghpvc/?username=ngohainnam&color=red)&nbsp;
-[![GitHub AbhishekSinghDhadwal](https://img.shields.io/github/followers/ngohainnam?label=follow&style=social)](https://github.com/ngohainnam)&nbsp;
+[![GitHub ngohainnam](https://img.shields.io/github/followers/ngohainnam?label=follow&style=social)](https://github.com/ngohainnam)&nbsp;
 ![build: passing](https://img.shields.io/badge/build-passing-success)
+
+
 <hr/>
+
 ### 👨🏻‍💻 &nbsp;About Me
 
 💡 &nbsp; I'm a Data Science student with a strong interest in Artificial Intelligence, Machine Learning, and Computer Vision. \
@@ -17,7 +22,7 @@
 🤝 &nbsp;Open to collaboration, internships, and opportunities in AI, Data Science, and Software Engineering.\
 💬 &nbsp;Feel free to reach out for projects, ideas, or discussions in these areas!
 <br>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=ngohainnam&label=Ngohainnam's%20Profile%20Views%20&color=dc143c&style=plastic" alt="ngohainnam" /> </p>
+
 
 ## 🔥 Streak Stats
 
@@ -146,13 +151,10 @@
 
 <br/>
 
-<details>
-  <summary><b>⚡ Recent GitHub Activity</b></summary>
-  <br/>
+### ⚡ Recent GitHub Activity
+<br/>
 	<a href="https://github.com/ngohainnam"><img alt="Ngohainnam's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ngohainnam&custom_title=ngohainnam%20Noronha's%20Contribution%20Graph&theme=react-dark" /></a>
-  <br/>
-
-</details>
+<br/>
 
 <br/>
 
